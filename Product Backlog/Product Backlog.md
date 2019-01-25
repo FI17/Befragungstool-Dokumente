@@ -1,5 +1,4 @@
-﻿#Product Backlog
-
+# Product Backlog
 - I		Als Auftraggeber möchte ich, dass ASP.NET verwendet wird, weil Gründe.
 - II		Als Programmierer möchte ich, verschiedene Codeversionen zusammenführen, um eine Arbeit im Team zu gewährleisten.
 - III	Als Entwickler möchte ich, dass meine Teammitglieder mir zu jedem ihrer Tasks erklären, wie sie technische Herausforderungen bewältigt haben, um aus ihren Erfahrungen zu lernen.
