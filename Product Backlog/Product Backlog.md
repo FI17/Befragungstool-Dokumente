@@ -1,0 +1,37 @@
+﻿#Product Backlog
+
+- I		Als Auftraggeber möchte ich, dass ASP.NET verwendet wird, weil Gründe.
+- II		Als Programmierer möchte ich, verschiedene Codeversionen zusammenführen, um eine Arbeit im Team zu gewährleisten.
+- III	Als Entwickler möchte ich, dass meine Teammitglieder mir zu jedem ihrer Tasks erklären, wie sie technische Herausforderungen bewältigt haben, um aus ihren Erfahrungen zu lernen.
+- IV		Als Fragebogenautor möchte ich eine grafische Oberfläche, um Fragebögen bequem erstellen zu können. 
+- V		Als Fragebogenautor möchte ich Fragenbögen anlegen, um Umfragen durchführen zu können.
+- VI		Als Fragebogenautor möchte ich Fragen zu meinem Fragebogen hinzufügen, um an Informationen zu kommen.
+- VII	Als Fragebogenautor möchte ich Fragen mit Freitext anlegen, um auch unvorhergesehene Antworten abzufangen.
+- VIII	Als Nutzer möchte ich, dass das Befragungstool nur die notwendigen Elemente enthält, um mich gut zu Recht zu finden.
+- IX		Als Nutzer möchte, dass keine Funktion mehr Klicks erfordert als notwendig, um die Ergonomie zu erhöhen.
+- XI		Als Unternehmen möchte ich, dass das Fragebogentool nicht von außerhalb des Netzwerkes erreichbar ist, um es intern zu halten.
+- XVII	Als Auftraggeber möchte ich, dass die Speicherung der Antworten mithilfe einer SQL basierten Datenbank erfolgt, weil Gründe.
+---
+- XII	Als Fragebogenautor möchte ich meine erstellten Fragebögen über die Oberfläche 	abspeichern können, um sie später Befragten zur Beantwortung vorlegen zu können.
+- XIII	Als Befragter möchte ich eine eigenständige Oberfläche, um Fragebögen aus der Datenbank beantworten zu können.
+- XIX	Als Auswerter möchte ich eine eigenständige Oberfläche, um einzelne ausgefüllte Fragebögen aus der Datenbank lesen zu können.
+- Δ		Als Entwickler möchte ich, dass die Datenbankstruktur an das aktuelle Datenbankmodell V3 angepasst wird, um die Datenhaltung konsistent zu halten.
+- B		Anforderung: Seitentitel auf „Umfragetool“ setzen
+- Γ		Bug: Kopfzeile in Fragestellung verschiebbar
+- Ζ		Als Auftraggeber möchte ich, dass die Datenbankstruktur digital erfasst wird, weil Gründe.
+- X		Als Anwender möchte ich, dass die aktuelle Release-Version des Fragebogentool betriebsweit zugänglich ist, um es nutzen zu können.
+- Ε		Als Entwickler möchte ich, dass eine monatlich aktualisierte Testversion des Fragebogentools permanent im Bereich IT-Ausbildung erreichbar ist, um neue Funktionalitäten des Systems unkompliziert testen zu können.
+---
+- XVI	Als Auswerter möchte ich die gegebenen Antworten speichern, um sie später auswerten zu 	können.
+- XX		Als Fragebogenautor möchte ich Multiple-Choice-Fragen erstellen, um die Antwortmöglichkeiten einzuengen.
+- XXI	Als Fragebogenautor möchte ich Skalenfragen erstellen, um Antworten mit verschiedener Intensität festzulegen.
+- XXII	Als Fragebogenautor möchte ich Fragen aus einem Fragebogen, während ich ihn neu erstelle, löschen, um Fragebögen von nicht mehr relevanten Inhalten zu befreien.
+- XXIII	Als Fragebogenautor möchte ich Fragen während der Erstellung eines Fragebogens 	bearbeiten, um meine Fragen nachträglich anzupassen.
+- XIV	Als Fragebogenautor möchte ich die Reihenfolge der Fragen in meinem Fragebogen während 	der Erstellung festlegen können, um psychologische Gegebenheiten beim Beantworten zu 	berücksichtigen.
+- XV		Als Fragebogenautor möchte ich, dass mir die Fragen beim Erstellen schon in der von mir festgelegten Reihenfolge angezeigt werden, um die Anschaulichkeit zu erhöhen.
+- XXIV	Als Befragter möchte ich maximal 15 Fragen auf einer Seite sehen, um mich besser zu Recht zu finden.
+- XXV	Als Fragebogenautor möchte ich Fragenbögen löschen, um die Übersicht zu erhöhen.
+- XXVI	Als Fragebogenautor möchte ich bereits in der Datenbank gespeicherte Fragebögen nach den gleichen Kriterien bearbeiten, wie beim Erstellen eines neuen Fragebogens, um meine 	Fragebögen nachträglich anzupassen.
+- XXVII	Als Auswerter möchte ich eine Oberfläche, um pro Frage gegebene Antworten sehen zu können.
+- XXVIII	Als Unternehmen möchte ich, dass das Tool mein Corporate Design verwendet, damit meine Corporate Identity gewahrt wird. 
+- XXIX	Als Admin möchte ich Benutzerkonten verwalten, um ihnen unterschiedliche Rechte zu geben.
