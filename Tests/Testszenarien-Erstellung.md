@@ -44,7 +44,3 @@
 | 8 | Textfeld | Eingabefeld für die Frage - Texteingabe | :clock12: |
 | 9 | Button | Speichern der Frage in der Datenbank und Weiterleitung zum hinzufügen einer weiteren Frage | :clock12: |
 | 10 | Button | Speichern der Frage in der Datenbank und Weiterleitung zum hinzufügen einer neuen Umfrage | :clock12: |
-
-
-
-# Testszenarien - Erstellen
