@@ -5,7 +5,7 @@ Test-Umfrage
 ## Fragen
 
 | text | typ | survey | position |
-| --- | --- | --- | --- |
+| --- | :---: | :---: | :---: |
 | Was ist ihr Vorname? | Freitext | Test-Umfrage | 0 |
 | Was ist Ihr Nachname? | Freitext | Test-Umfrage | 1 |
 | Woher kommen Sie? (Stadtname) | Freitext | Test-Umfrage | 2 |
