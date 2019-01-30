@@ -16,4 +16,5 @@ Dokumente zum Projekt der FI17 zur Erstellung eines Befragungstools mit ASP.NET
 [Testumfrage.md](Test-Umfrage/Testumfrage.md)
 
 ### Tests
-[Tests für die Erstellung von Umfragen](Tests/Tests-Erstellung.md)
+[Tests für die Erstellung von Umfragen](Tests/Tests-Erstellung.md) <br />
+[Tests für die Beantwortung von Umfragen](Tests/Tests-Beantwortung.md)
