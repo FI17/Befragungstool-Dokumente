@@ -1,7 +1,7 @@
 [Inhaltsverzeichnis](https://github.com/FI17/Befragungstool-Dokumente/blob/master/README.md)
 # Testszenarien - Beantwortung
 ## visuelle Tests
-* sehen alle Seiten in den folgenden Browsern gleich aus?
+* Ist das Aussehen der Seiten in den folgenden Browsern gleich? Gibt es irgendwelche grafischen Fehler?
 
 | Seite/Browser | Google Chrome | Mozilla Firefox | Microsoft Internet Explorer | Microsoft Edge |
 | --- | :---: | :---: |  :---: | :---: |
@@ -9,7 +9,7 @@
 | Beantwortungsseite - Fertigstellen | :clock12: | :clock12:|:clock12:|:clock12:|
 
 ## funktionale Tests
-* funktionieren die folgenden Elemente wie gewollt?
+* Ist die Funktionsweise der folgenden Elemente wie gewünscht?
 
 ### Beantwortung - Weiter
 ![Bild der Beantwortungsseite mit dem Button "Weiter"](https://github.com/FI17/Befragungstool-Dokumente/blob/master/Tests/Content/Beantwortung/1-Beantwortung-Weiter.png)

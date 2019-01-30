@@ -1,16 +1,16 @@
 [Inhaltsverzeichnis](https://github.com/FI17/Befragungstool-Dokumente/blob/master/README.md)
 # Testszenarien - Erstellen
 ## visuelle Tests
-* sehen alle Seiten in den folgenden Browsern gleich aus?
+* Ist das Aussehen der Seiten in den folgenden Browsern gleich? Gibt es irgendwelche grafischen Fehler?
 
 | Seite/Browser | Google Chrome | Mozilla Firefox | Microsoft Internet Explorer | Microsoft Edge |
-| --- | :---: | :---: |  :---: | :---: |
+| :--- | :---: | :---: |  :---: | :---: |
 | Startseite | :clock12: | :clock12:|:clock12:|:clock12:|
 | Umfrage erstellen | :clock12: | :clock12:|:clock12:|:clock12:|
 | Frage erstellen | :clock12: | :clock12:|:clock12:|:clock12:|
 
 ## funktionale Tests
-* funktionieren die folgenden Elemente wie gewollt?
+* Ist die Funktionsweise der folgenden Elemente wie gewünscht?
 ### Navbar
 
 ![Bild der Navbar](https://github.com/FI17/Befragungstool-Dokumente/blob/Tests/Tests/Content/Navbar/Navbar.png)
