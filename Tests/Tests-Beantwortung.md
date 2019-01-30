@@ -50,7 +50,7 @@
 | Testfall 1 | keine Eingabe von Zeichen im Textfeld | :clock12: |
 | Testfall 2 | Antworttext ohne Umlaute | :clock12: |
 | Testfall 3 | Antworttext mit Umlauten im Textfeld | :clock12: |
-| Testfall 4 | Eingabe von Antworttext mit Sonderzeichen | :clock12: |
+| Testfall 4 | Antworttext mit Sonderzeichen | :clock12: |
 | Testfall 5 | Antworttext mit Hiragana im Textfeld | :clock12: |
 | Testfall 6 | Antworttext mit Han-Schrift im Textfeld | :clock12: |
 | Testfall 7 | Antworttext mit arabischer Schrift im Textfeld | :clock12: |
@@ -78,7 +78,7 @@
 | Testfall 1 | keine Eingabe von Zeichen im Textfeld | :clock12: |
 | Testfall 2 | Antworttext ohne Umlaute | :clock12: |
 | Testfall 3 | Antworttext mit Umlauten im Textfeld | :clock12: |
-| Testfall 4 | Eingabe von Antworttext mit Sonderzeichen | :clock12: |
+| Testfall 4 | Antworttext mit Sonderzeichen | :clock12: |
 | Testfall 5 | Antworttext mit Hiragana im Textfeld | :clock12: |
 | Testfall 6 | Antworttext mit Han-Schrift im Textfeld | :clock12: |
 | Testfall 7 | Antworttext mit arabischer Schrift im Textfeld | :clock12: |
