@@ -1,4 +1,4 @@
-[Inhaltsverzeichnis](README.md)
+[Inhaltsverzeichnis](https://github.com/FI17/Befragungstool-Dokumente/blob/master/README.md)
 # Testszenarien - Erstellen
 ## visuelle Tests
 * sehen alle Seiten in den folgenden Browsern gleich aus?

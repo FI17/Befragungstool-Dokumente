@@ -1,4 +1,4 @@
-[Inhaltsverzeichnis](README.md)
+[Inhaltsverzeichnis](https://github.com/FI17/Befragungstool-Dokumente/blob/master/README.md)
 # Umfrage
 ## Name
 Test-Umfrage
