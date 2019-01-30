@@ -94,22 +94,28 @@
 | Testfall 1 | keine Eingabe von Zeichen | :clock12: |
 | Testfall 2 | Eingabe von Fragebogennamen ohne Umlaute | :clock12: |
 | Testfall 3 | Eingabe von Fragebogennamen mit Umlauten | :clock12: |
-| Testfall 4 | Eingabe von Fragebogennamen mit Hiragana | :clock12: |
-| Testfall 5 | Eingabe von Fragebogennamen mit Han-Schrift | :clock12: |
-| Testfall 6 | Eingabe von Fragebogennamen mit arabischer Schrift | :clock12: |
-| Testfall 7 | Eingabe von Fragebogennamen mit einer Länge von 10.000 Zeichen (lat. Buchstaben) | :clock12: |
+| Testfall 4 | Eingabe von Fragebogennamen mit Sonderzeichen | :clock12: |
+| Testfall 5 | Eingabe von Fragebogennamen mit Hiragana | :clock12: |
+| Testfall 6 | Eingabe von Fragebogennamen mit Han-Schrift | :clock12: |
+| Testfall 7 | Eingabe von Fragebogennamen mit arabischer Schrift | :clock12: |
+| Testfall 8 | Eingabe von Fragebogennamen mit einer Länge von 10.000 Zeichen (lat. Buchstaben) | :clock12: |
+| Testfall 9 (1-8)| Website läuft auf PC | :clock12: |
+| Testfall 10 (1-8)| Website läuft auf Server | :clock12: |
 
 ## Element 7
 
 | Testszenario | Speichern der Umfrage in der Datenbank und Weiterleitung zum hinzufügen von Umfragen | funktionsfähig? | Anmerkungen |
 | :---: | :--- | :---: | :--- |
 | Testfall 1 | keine Eingabe von Zeichen im Textfeld | :clock12: |
-| Testfall 2 | Fragebogennamen ohne Umlaute | :clock12: |
+| Testfall 2 | Fragebogennamen ohne Umlaute im Textfeld | :clock12: |
 | Testfall 3 | Fragebogennamen mit Umlauten im Textfeld | :clock12: |
-| Testfall 4 | Fragebogennamen mit Hiragana im Textfeld | :clock12: |
-| Testfall 5 | Fragebogennamen mit Han-Schrift im Textfeld | :clock12: |
-| Testfall 6 | Fragebogennamen mit arabischer Schrift im Textfeld | :clock12: |
-| Testfall 7 | Fragebogennamen mit einer Länge von 10.000 Zeichen oder mehr (lat. Buchstaben) im Textfeld | :clock12: |
+| Testfall 4 | Fragebogennamen mit Sonderzeichen im Textfeld | :clock12: |
+| Testfall 5 | Fragebogennamen mit Hiragana im Textfeld | :clock12: |
+| Testfall 6 | Fragebogennamen mit Han-Schrift im Textfeld | :clock12: |
+| Testfall 7 | Fragebogennamen mit arabischer Schrift im Textfeld | :clock12: |
+| Testfall 8 | Fragebogennamen mit einer Länge von 10.000 Zeichen oder mehr (lat. Buchstaben) im Textfeld | :clock12: |
+| Testfall 9 (1-8)| Website läuft auf PC | :clock12: |
+| Testfall 10 (1-8)| Website läuft auf Server | :clock12: |
 
 ---
 
@@ -120,10 +126,13 @@
 | Testfall 1 | keine Eingabe von Zeichen | :clock12: |
 | Testfall 2 | Eingabe von Fragentext ohne Umlaute | :clock12: |
 | Testfall 3 | Eingabe von Fragentext mit Umlauten | :clock12: |
-| Testfall 4 | Eingabe von Fragentext mit Hiragana | :clock12: |
-| Testfall 5 | Eingabe von Fragentext mit Han-Schrift | :clock12: |
-| Testfall 6 | Eingabe von Fragentext mit arabischer Schrift | :clock12: |
-| Testfall 7 | Eingabe von Fragentext mit einer Länge von 10.000 Zeichen (lat. Buchstaben) | :clock12: |
+| Testfall 4 | Eingabe von Fragentext mit Sonderzeichen | :clock12: |
+| Testfall 5 | Eingabe von Fragentext mit Hiragana | :clock12: |
+| Testfall 6 | Eingabe von Fragentext mit Han-Schrift | :clock12: |
+| Testfall 7 | Eingabe von Fragentext mit arabischer Schrift | :clock12: |
+| Testfall 8 | Eingabe von Fragentext mit einer Länge von 10.000 Zeichen (lat. Buchstaben) | :clock12: |
+| Testfall 9 (1-8)| Website läuft auf PC | :clock12: |
+| Testfall 10 (1-8)| Website läuft auf Server | :clock12: |
 
 ## Element 9
 
@@ -132,10 +141,13 @@
 | Testfall 1 | keine Eingabe von Zeichen im Textfeld | :clock12: |
 | Testfall 2 | Fragentext ohne Umlaute | :clock12: |
 | Testfall 3 | Fragentext mit Umlauten im Textfeld | :clock12: |
-| Testfall 4 | Fragentext mit Hiragana im Textfeld | :clock12: |
-| Testfall 5 | Fragentext mit Han-Schrift im Textfeld | :clock12: |
-| Testfall 6 | Fragentext mit arabischer Schrift im Textfeld | :clock12: |
-| Testfall 7 | Fragentext mit einer Länge von 10.000 Zeichen oder mehr (lat. Buchstaben) im Textfeld | :clock12: |
+| Testfall 4 | Fragentext mit Sonderzeichen im Textfeld | :clock12: |
+| Testfall 5 | Fragentext mit Hiragana im Textfeld | :clock12: |
+| Testfall 6 | Fragentext mit Han-Schrift im Textfeld | :clock12: |
+| Testfall 7 | Fragentext mit arabischer Schrift im Textfeld | :clock12: |
+| Testfall 8 | Fragentext mit einer Länge von 10.000 Zeichen oder mehr (lat. Buchstaben) im Textfeld | :clock12: |
+| Testfall 9 (1-8)| Website läuft auf PC | :clock12: |
+| Testfall 10 (1-8)| Website läuft auf Server | :clock12: |
 
 ## Element 10
 
@@ -144,7 +156,10 @@
 | Testfall 1 | keine Eingabe von Zeichen im Textfeld | :clock12: |
 | Testfall 2 | Fragentext ohne Umlaute | :clock12: |
 | Testfall 3 | Fragentext mit Umlauten im Textfeld | :clock12: |
-| Testfall 4 | Fragentext mit Hiragana im Textfeld | :clock12: |
-| Testfall 5 | Fragentext mit Han-Schrift im Textfeld | :clock12: |
-| Testfall 6 | Fragentext mit arabischer Schrift im Textfeld | :clock12: |
-| Testfall 7 | Fragentext mit einer Länge von 10.000 Zeichen oder mehr (lat. Buchstaben) im Textfeld | :clock12: |
+| Testfall 4 | Fragentext mit Sonderzeichen im Textfeld | :clock12: |
+| Testfall 5 | Fragentext mit Hiragana im Textfeld | :clock12: |
+| Testfall 6 | Fragentext mit Han-Schrift im Textfeld | :clock12: |
+| Testfall 7 | Fragentext mit arabischer Schrift im Textfeld | :clock12: |
+| Testfall 8 | Fragentext mit einer Länge von 10.000 Zeichen oder mehr (lat. Buchstaben) im Textfeld | :clock12: |
+| Testfall 9 (1-8)| Website läuft auf PC | :clock12: |
+| Testfall 10 (1-8)| Website läuft auf Server | :clock12: |
