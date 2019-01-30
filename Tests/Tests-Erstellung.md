@@ -12,7 +12,7 @@
 * funktionieren die folgenden Elemente wie gewollt?
 ### Navbar
 
-![Bild der Navbar](https://github.com/FI17/Befragungstool-Dokumente/blob/Tests/Tests/Navbar/Navbar.png)
+![Bild der Navbar](https://github.com/FI17/Befragungstool-Dokumente/blob/Tests/Tests/Content/Navbar/Navbar.png)
 
 | Nr. | Elementtyp | gewollte Funktion | funktionsfähig? |
 | :---: | --- | --- | :---: |
