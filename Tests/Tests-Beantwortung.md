@@ -42,6 +42,8 @@
 | Testfall 6 | Eingabe von Antworttext mit Han-Schrift | :clock12: |
 | Testfall 7 | Eingabe von Antworttext mit arabischer Schrift | :clock12: |
 | Testfall 8 | Eingabe von Antworttext mit einer Länge von 10.000 Zeichen (lat. Buchstaben) | :clock12: |
+| Testfall 9 (1-8)| Website läuft auf PC | :clock12: |
+| Testfall 10 (1-8)| Website läuft auf Server | :clock12: |
 
 ## Element 2
 
@@ -55,6 +57,8 @@
 | Testfall 6 | Antworttext mit Han-Schrift im Textfeld | :clock12: |
 | Testfall 7 | Antworttext mit arabischer Schrift im Textfeld | :clock12: |
 | Testfall 8 | Antworttext mit einer Länge von 10.000 Zeichen oder mehr (lat. Buchstaben) im Textfeld | :clock12: |
+| Testfall 9 (1-8)| Website läuft auf PC | :clock12: |
+| Testfall 10 (1-8)| Website läuft auf Server | :clock12: |
 
 ---
 
@@ -70,6 +74,8 @@
 | Testfall 6 | Eingabe von Antworttext mit Han-Schrift | :clock12: |
 | Testfall 7 | Eingabe von Antworttext mit arabischer Schrift | :clock12: |
 | Testfall 8 | Eingabe von Antworttext mit einer Länge von 10.000 Zeichen (lat. Buchstaben) | :clock12: |
+| Testfall 9 (1-8)| Website läuft auf PC | :clock12: |
+| Testfall 10 (1-8)| Website läuft auf Server | :clock12: |
 
 ## Element 4
 
@@ -83,3 +89,5 @@
 | Testfall 6 | Antworttext mit Han-Schrift im Textfeld | :clock12: |
 | Testfall 7 | Antworttext mit arabischer Schrift im Textfeld | :clock12: |
 | Testfall 8 | Antworttext mit einer Länge von 10.000 Zeichen oder mehr (lat. Buchstaben) im Textfeld | :clock12: |
+| Testfall 9 (1-8)| Website läuft auf PC | :clock12: |
+| Testfall 10 (1-8)| Website läuft auf Server | :clock12: |
