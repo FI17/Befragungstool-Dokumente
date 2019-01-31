@@ -5,7 +5,7 @@
 
 | Seite/Browser | Google Chrome | Mozilla Firefox | Microsoft Internet Explorer | Microsoft Edge |
 | :--- | :---: | :---: |  :---: | :---: |
-| Startseite | ::white_check_mark: | :white_check_mark:|::white_check_mark:|:red_circle:|
+| Startseite | :white_check_mark: | :white_check_mark:|:white_check_mark:|:red_circle:|
 | Umfrage erstellen | :white_check_mark: | :white_check_mark:|:white_check_mark:|:red_circle:|
 | Frage erstellen | :white_check_mark: | :white_check_mark:|:white_check_mark:|:red_circle:|
 
