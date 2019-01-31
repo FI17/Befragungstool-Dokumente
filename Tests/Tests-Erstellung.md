@@ -10,7 +10,13 @@
 | Frage erstellen | :clock12: | :clock12:|:clock12:|:clock12:|
 
 ## funktionale Tests
-* Ist die Funktionsweise der folgenden Elemente wie gewünscht?
+* Was geschieht bei den Testszenarien?
+
+| Nr. | Elementtyp | gewollte Funktion | funktionsfähig? |
+| :---: | --- | --- | :---: |
+| 1 | Knopf zum neu laden der Website | Neu laden der Website oder Abfragen ob die Seite neu geladen werden soll | :clock12: |
+| 2 | Knopf zum schließen der Website | Schließen der Website oder Abfragen ob die Seite geschlossen werden soll | :clock12: |
+---
 ### Navbar
 
 ![Bild der Navbar](https://github.com/FI17/Befragungstool-Dokumente/blob/Tests/Tests/Content/Navbar/Navbar.png)
@@ -163,3 +169,13 @@
 | Testfall 8 | Fragentext mit einer Länge von 10.000 Zeichen oder mehr (lat. Buchstaben) im Textfeld | :clock12: |
 | Testfall 9 (1-8)| Website läuft auf PC | :clock12: |
 | Testfall 10 (1-8)| Website läuft auf Server | :clock12: |
+
+
+#Testfälle abgesehen von den Elementen
+
+| Testszenario | Unterbrechen der Erstellung | Was passiert? |
+| :---: | :--- | :---: | :--- |
+| Testfall 1 | Neu laden der Seiten | :clock12: |
+| Testfall 2 | Schließen der Seiten | :clock12: |
+| Testfall 3 (1-2)| Website läuft auf PC | :clock12: |
+| Testfall 4 (1-3)| Website läuft auf Server | :clock12: |
