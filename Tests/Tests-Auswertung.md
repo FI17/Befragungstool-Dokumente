@@ -5,7 +5,11 @@
 
 | Seite/Browser | Google Chrome | Mozilla Firefox | Microsoft Internet Explorer | Microsoft Edge |
 | --- | :---: | :---: |  :---: | :---: |
-| X | :clock12: | :clock12:|:clock12:|:clock12:|
+| Login | :clock12: | :clock12:|:clock12:|:clock12:|
+| Startseite | :clock12: | :clock12:|:clock12:|:clock12:|
+| Umfragenliste | :clock12: | :clock12:|:clock12:|:clock12:|
+| Sessionliste | :clock12: | :clock12:|:clock12:|:clock12:|
+| Antwortenliste | :clock12: | :clock12:|:clock12:|:clock12:|
 
 ## funktionale Tests
 * Ist die Funktionsweise der folgenden Elemente wie gewünscht?
@@ -24,32 +28,21 @@
 | :---: | :---: | :--- | :---: |
 | X | Typ | X | :clock12: |
 
-### Umfrageergebnisse
-#### alle Umfragen aufgelistet
+### Umfragenliste
 ![Bild der Umfrageergebnisseite](https://blog.mumbi.de/wp-content/uploads/2016/11/platzhalter-bild-in-arbeit.jpg)
 
 | Nr. | Elementtyp | gewollte Funktion | funktionsfähig? |
 | :---: | :---: | :--- | :---: |
 | X | Typ | X | :clock12: |
 
-### Umfrageergebnisse
-#### eine Umfrage ausgewählt
+### Sessionliste
 ![Bild der Umfrageergebnisseite](https://blog.mumbi.de/wp-content/uploads/2016/11/platzhalter-bild-in-arbeit.jpg)
 
 | Nr. | Elementtyp | gewollte Funktion | funktionsfähig? |
 | :---: | :---: | :--- | :---: |
 | X | Typ | X | :clock12: |
 
-### Umfrageergebnisse
-#### alle Antworten einer Umfrage aufgelistet
-![Bild der Umfrageergebnisseite](https://blog.mumbi.de/wp-content/uploads/2016/11/platzhalter-bild-in-arbeit.jpg)
-
-| Nr. | Elementtyp | gewollte Funktion | funktionsfähig? |
-| :---: | :---: | :--- | :---: |
-| X | Typ | X | :clock12: |
-
-### Umfrageergebnisse
-#### alle Antworten einer Session aufgelistet
+### Antwortenliste
 ![Bild der Umfrageergebnisseite](https://blog.mumbi.de/wp-content/uploads/2016/11/platzhalter-bild-in-arbeit.jpg)
 
 | Nr. | Elementtyp | gewollte Funktion | funktionsfähig? |
