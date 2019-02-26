@@ -1,4 +1,4 @@
-[Inhaltsverzeichnis](https://github.com/FI17/Befragungstool-Dokumente/blob/master/README.md)
+[Inhaltsverzeichnis](/README.md)
 # Testszenarien - Beantwortung
 ## visuelle Tests
 * Ist das Aussehen der Seiten in den folgenden Browsern gleich? Gibt es irgendwelche grafischen Fehler?
