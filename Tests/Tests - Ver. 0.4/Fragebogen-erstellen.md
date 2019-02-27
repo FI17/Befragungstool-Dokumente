@@ -21,12 +21,12 @@
 
 ## Fragebogenname-Textfeld
 
-| Testszenario | Eingabe des Umfragenamens |  Aktion | e. Reaktion | :white_check_mark: | Anmerkungen |
+| Nr. | Eingabe des Umfragenamens |  Aktion | e. Reaktion | :white_check_mark: | Anmerkungen |
 | :---: | :--- | :--- | :--- | :---: | :--- |
-| Testfall 1 | Feld darf nicht leer sein | Feld leer lassen | Meldung, dass Feld nicht leer sein darf | :clock12: | *Anmerkung hier einfügen* |
-| Testfall 2 | Feld muss eine Frage oder Aufgabe enthalten | Sinnlose Zeichen eingeben | Meldung, dass Inhalt ene Frage oder Aufgabe sein muss | :clock12: | *Anmerkung hier einfügen* |
-| Testfall 3 | SQL-Injection soll nicht möglich sein | Code für eine SQL-Injection eingeben | Meldung, dass SQL-Injection abgewehrt wurde | :clock12: | *Anmerkung hier einfügen* |
-| Testfall 4 | Feld muss bestimmte Sonderzeichen (Bsp: Punkt, Fragezeichen, Ausrufezeichen) annehmen | Für Aufgaben notwendige Sonderzeichen eingeben | Keine Meldung | :clock12: | *Anmerkung hier einfügen* |
+| 1 | Feld darf nicht leer sein | Feld leer lassen | Meldung, dass Feld nicht leer sein darf | :clock12: | *Anmerkung hier einfügen* |
+| 2 | Feld muss eine Frage oder Aufgabe enthalten | Sinnlose Zeichen eingeben | Meldung, dass Inhalt ene Frage oder Aufgabe sein muss | :clock12: | *Anmerkung hier einfügen* |
+| 3 | SQL-Injection soll nicht möglich sein | Code für eine SQL-Injection eingeben | Meldung, dass SQL-Injection abgewehrt wurde | :clock12: | *Anmerkung hier einfügen* |
+| 4 | Feld muss bestimmte Sonderzeichen (Bsp: Punkt, Fragezeichen, Ausrufezeichen) annehmen | Für Aufgaben notwendige Sonderzeichen eingeben | Keine Meldung | :clock12: | *Anmerkung hier einfügen* |
 
 ## Button *Frage hinzufügen*
 - durchführen mit allen Testfällen von [Fragebogenname-Textfeld](/Tests/Tests%20-%20Ver.%200.4/Fragebogen-erstellen.md#fragebogenname-textfeld)
