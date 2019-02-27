@@ -29,7 +29,7 @@
 | Testfall 4 | Feld muss bestimmte Sonderzeichen (Bsp: Punkt, Fragezeichen, Ausrufezeichen) annehmen.<br>Werden diese nicht geblockt? | :clock12: | *Anmerkung hier einfügen* |
 
 ## Button *Frage hinzufügen*
-- durchführen mit allen Testfällen von **Fragebogenname-Textfeld**
+- durchführen mit allen Testfällen von [Fragebogenname-Textfeld](/Tests/Tests%20-%20Ver.%200.4/Fragebogen-erstellen.md#fragebogenname-textfeld)
 
 | Testszenario | Link zur Umfrage erstellen | funktionsfähig? | Anmerkungen |
 | :---: | :--- | :---: | :--- |
