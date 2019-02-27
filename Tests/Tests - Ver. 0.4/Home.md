@@ -22,19 +22,18 @@
 
 ## Umfragenname
 
-| Testszenario | Abrufen der Umfragennamen aus der Datenbank | funktionsfähig? | Anmerkungen |
-| :---: | :--- | :---: | :--- |
-| Testfall 1 | Wird der Umfragename aus der Datenbank geladen? | :clock12: | *Anmerkung hier einfügen* |
+| Nr. | Umfragennamen anzeigen | Aktion | e. Reaktion | :white_check_mark: | Anmerkungen |
+| :---: | :--- | :--- | :--- | :---: | :--- |
+| 1 | Umfragenamen aus Datenbank laden | Seite laden | Umfragenname wird angezeigt | :clock12: | *Anmerkung hier einfügen* |
 
 ## Umfragenlink
 
-| Testszenario | Link zur Umfrage erstellen | funktionsfähig? | Anmerkungen |
-| :---: | :--- | :---: | :--- |
-| Testfall 1 | Klick auf Link</br>Öffnet er die Umfrage? | :clock12: | *Anmerkung hier einfügen* |
-| Testfall 2 | Klick auf bearbeiteten Link (HTML-Bearbeitung)</br>Wird die Umfrage geöffnet? Schutz vor Veränderung? | :clock12: | *Anmerkung hier einfügen* |
+| Nr. | Link zur Umfrage anzeigen | Aktion | e. Reaktion | :white_check_mark: | Anmerkungen |
+| :---: | :--- | :--- | :--- | :---: | :--- |
+| 1 | Umfrage anzeigen | Klick auf Link | Laden der Umfrage zum beantworten | :clock12: | *Anmerkung hier einfügen* |
 
 ## Button *Umfrage hinzufügen*
 
-| Testszenario | Antwort abspeichern und nächste Frage aufrufen | funktionsfähig? | Anmerkungen |
-| :---: | :--- | :---: | :--- |
-| Testfall 1 | Klick auf Button</br>Wird man zur Seite zur Erstellung weitergeleitet? | :clock12: | *Anmerkung hier einfügen* |
+| Nr. | Aufrufen der Umfragenerstellung | Aktion | e. Reaktion | :white_check_mark: | Anmerkungen |
+| :---: | :--- | :--- | :--- | :---: | :--- |
+| 1 | Weiterleitung | Klick auf Button | Aufrufen der Umfragenerstellung | :clock12: | *Anmerkung hier einfügen* |
