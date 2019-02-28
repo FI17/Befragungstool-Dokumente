@@ -23,7 +23,7 @@
 | Fortschrittsanzeige (Zahlen) | Fortschrittsanzeige | Anzeigen des Fortschritts in Zahlen | :clock12: |
 
 
-# Testfälle  - WIP
+# Testfälle
 
 ## Umfragename
 
@@ -57,3 +57,15 @@
 | Nr. | Link zur Umfrage erstellen | Aktion | e. Reaktion | :white_check_mark: | Anmerkungen |
 | :---: | :--- | :--- | :--- | :---: | :--- |
 | 1 | Speichern | Klick auf Button | Speichern und aufrufen der Dankes-Seite | :clock12: | *Anmerkung hier einfügen* |
+
+## Progress Bar
+
+| Nr. | Anzeige des Fortschritts | Aktion | e. Reaktion | :white_check_mark: | Anmerkungen |
+| :---: | :--- | :--- | :--- | :---: | :--- |
+| 1 | Anzeige des Fortschritts mit einem Balken | Seite laden | Anzeige des richtigen Fortschritts | :clock12: | *Anmerkung hier einfügen* |
+
+## Fortschrittsanzeige (Zahlen)
+
+| Nr. | Anzeige des Fortschritts | Aktion | e. Reaktion | :white_check_mark: | Anmerkungen |
+| :---: | :--- | :--- | :--- | :---: | :--- |
+| 1 | Anzeige des Fortschritts mit Zahlen | Seite laden | Anzeige des richtigen Fortschritts | :clock12: | *Anmerkung hier einfügen* |
