@@ -2,12 +2,19 @@
 # Testszenarien
 ## visuelle Tests
 * Ist das Aussehen der Seite in den folgenden Browsern gleich? Gibt es irgendwelche grafischen Fehler?
-
+### Fragebogen erstellen
 ![Bild der Fragebogen-erstellen-Seite](/Tests/Tests%20-%20Ver.%200.4/Images/Fragebogen-erstellen.png)
+
+### Frage erstellen (Freitext)
+![Bild der Frage-hinzufügen(Freitext)-Seite](/Tests/Tests%20-%20Ver.%200.4/Images/Frage-hinzufügen-Freitext.png)
+
+### Fragebogen gespeichert
+![Bild der Fragebogen-gespeichert-Seite](/Tests/Tests%20-%20Ver.%200.4/Images/Fragebogen-gespeichert.png)
 
 | Seite/Browser | Google Chrome | Mozilla Firefox | Microsoft Internet Explorer | Microsoft Edge | Anmerkungen |
 | :--- | :---: | :---: |  :---: | :---: | :--- |
 | Fragebogen-erstellen | :clock12: | :clock12:|:clock12:|:clock12:| *Hier Anmerkung einfügen* |
+| Frage-hinzufügen (Freitext) | :clock12: | :clock12:|:clock12:|:clock12:| *Hier Anmerkung einfügen* |
 
 ## funktionale Tests
 * Was geschieht bei den Testszenarien?
@@ -16,6 +23,12 @@
 | :---: | --- | --- | :---: |
 | Fragebogenname-Textfeld | Textfeld | Eingabe des Umfragenamens | :clock12: |
 | Button *Frage hinzufügen* | Button | Speichern des Umfragenamens und Weiterleitung zum hinzufügen von Fragen | :clock12: |
+
+| Element | Elementtyp | gewollte Funktion | Was passiert? |
+| :---: | --- | --- | :---: |
+| Fragentext-Textfeld | Textfeld | Eingabe des Umfragenamens | :clock12: |
+| Button *Speichern + weitere Frage* | Button | Speichern des Fragentexts und Weiterleitung zum hinzufügen von einer neuen Frage | :clock12: |
+| Button *Speichern + Ende* | Button | Speichern des Fragentexts und Weiterleitung zur Abschlusseite | :clock12: |
 
 # Testfälle
 
